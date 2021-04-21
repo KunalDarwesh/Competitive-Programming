@@ -1,3 +1,4 @@
+#Hacker earth
 MAX = 1000
 
 def findDuplicate(arr, n, k): 
